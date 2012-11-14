@@ -1,6 +1,1 @@
 apollo
-gemini
-challenger
-mir
-discovery
-mercury
