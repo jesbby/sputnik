@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 feature two edit
+=======
+feature one edit
+
+>>>>>>> 2827579092eacdbd2f776e12676d5f74fd4e11e9
