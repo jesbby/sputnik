@@ -1,4 +1,2 @@
-local change
-bar
-baz
+feature one edit
 
