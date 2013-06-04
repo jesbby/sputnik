@@ -1,4 +1,1 @@
-local change
-bar
-baz
-
+feature two edit
